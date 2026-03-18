@@ -3,15 +3,15 @@
 MCP server that gives AI assistants accurate [React Flow](https://reactflow.dev) (`@xyflow/react`) v12 documentation, API references, enterprise patterns, and code generation.
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@orkait-ai/reactflow-mcp"><img src="https://img.shields.io/npm/v/@orkait-ai/reactflow-mcp" alt="npm" /></a>
-  <a href="https://github.com/orkait/reactflow-mcp-server/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/@orkait-ai/reactflow-mcp" alt="license" /></a>
+  <a href="https://github.com/orkait/reactflow-mcp-server/blob/main/LICENSE"><img src="https://img.shields.io/github/license/orkait/reactflow-mcp-server" alt="license" /></a>
+  <a href="https://github.com/orkait/reactflow-mcp-server"><img src="https://img.shields.io/github/stars/orkait/reactflow-mcp-server" alt="stars" /></a>
 </p>
 
 ## Tools
 
 | Tool | Description |
 |------|-------------|
-| `list_apis` | Browse all 55 APIs grouped by kind (components, hooks, utilities, types) |
+| `list_apis` | Browse all 56 APIs grouped by kind (components, hooks, utilities, types) |
 | `get_api` | Detailed reference for any API — props, usage, examples, tips |
 | `search_docs` | Keyword search across all documentation and code examples |
 | `get_examples` | Code examples by category (15 categories) |
