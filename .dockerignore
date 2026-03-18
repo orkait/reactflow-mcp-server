@@ -1,0 +1,9 @@
+node_modules
+src
+docs
+logs
+.git
+.github
+*.md
+tsconfig.json
+bun.lock
