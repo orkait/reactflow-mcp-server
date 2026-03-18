@@ -7,4 +7,6 @@ RUN npm ci --omit=dev
 
 COPY dist/ dist/
 
+USER node
+
 ENTRYPOINT ["node", "dist/index.js"]
