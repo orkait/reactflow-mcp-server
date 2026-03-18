@@ -1,0 +1,54 @@
+{
+  "name": "@orkait-ai/reactflow-mcp",
+  "version": "1.0.0",
+  "description": "MCP server that gives AI assistants accurate React Flow (@xyflow/react) v12 documentation, API references, patterns, and code generation",
+  "main": "dist/index.js",
+  "bin": {
+    "reactflow-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "reactflow",
+    "xyflow",
+    "react-flow",
+    "react",
+    "node-based-ui",
+    "graph",
+    "flow",
+    "ai",
+    "claude",
+    "cursor",
+    "windsurf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orkait/reactflow-mcp-server.git"
+  },
+  "homepage": "https://github.com/orkait/reactflow-mcp-server#readme",
+  "bugs": {
+    "url": "https://github.com/orkait/reactflow-mcp-server/issues"
+  },
+  "author": "Orkait",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.5.0"
+  }
+}
