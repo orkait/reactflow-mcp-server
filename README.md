@@ -3,6 +3,7 @@
 MCP server that gives AI assistants accurate [React Flow](https://reactflow.dev) (`@xyflow/react`) v12 documentation, API references, enterprise patterns, and code generation.
 
 <p align="center">
+  <a href="https://github.com/orkait/reactflow-mcp-server/actions/workflows/ci.yml"><img src="https://github.com/orkait/reactflow-mcp-server/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <a href="https://github.com/orkait/reactflow-mcp-server/blob/main/LICENSE"><img src="https://img.shields.io/github/license/orkait/reactflow-mcp-server" alt="license" /></a>
   <a href="https://github.com/orkait/reactflow-mcp-server"><img src="https://img.shields.io/github/stars/orkait/reactflow-mcp-server" alt="stars" /></a>
 </p>
